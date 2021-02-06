@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  LAB 3 KG.cpp
+C:\Users\ilsur\Desktop\Графика\Лабы кг\LAB3\LAB 3 KG\LAB 3 KG\LAB 3 KG.cpp(26,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\ilsur\Desktop\Графика\Лабы кг\LAB3\LAB 3 KG\LAB 3 KG\LAB 3 KG.cpp(126,16): warning C4305: =: усечение из "double" в "GLfloat"
+C:\Users\ilsur\Desktop\Графика\Лабы кг\LAB3\LAB 3 KG\LAB 3 KG\LAB 3 KG.cpp(133,17): warning C4305: =: усечение из "double" в "GLfloat"
+  LAB 3 KG.vcxproj -> C:\Users\ilsur\Desktop\Графика\Лабы кг\LAB3\LAB 3 KG\Debug\LAB 3 KG.exe
