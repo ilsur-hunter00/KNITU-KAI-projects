@@ -1,0 +1,7 @@
+﻿  LAB2(2nd).cpp
+c:\users\ilsur\desktop\графика\lab2(2nd)\lab2(2nd)\lab2(2nd).cpp(9): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\ilsur\desktop\графика\lab2(2nd)\lab2(2nd)\lab2(2nd).cpp(28): warning C4244: аргумент: преобразование "GLfloat" в "GLsizei", возможна потеря данных
+c:\users\ilsur\desktop\графика\lab2(2nd)\lab2(2nd)\lab2(2nd).cpp(29): warning C4244: аргумент: преобразование "GLfloat" в "GLsizei", возможна потеря данных
+c:\users\ilsur\desktop\графика\lab2(2nd)\lab2(2nd)\lab2(2nd).cpp(36): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ilsur\desktop\графика\lab2(2nd)\lab2(2nd)\lab2(2nd).cpp(95): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LAB2(2nd).vcxproj -> C:\Users\ilsur\Desktop\Графика\LAB2(2nd)\Debug\LAB2(2nd).exe
