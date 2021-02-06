@@ -1,0 +1,6 @@
+﻿  lab 14.cpp
+C:\Users\ilsur\Desktop\Чисто лабы САОД\lab 14\lab 14\lab 14.cpp(117,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ilsur\Desktop\Чисто лабы САОД\lab 14\lab 14\lab 14.cpp(117,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\ilsur\Desktop\Чисто лабы САОД\lab 14\lab 14\lab 14.cpp(120,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\ilsur\Desktop\Чисто лабы САОД\lab 14\lab 14\lab 14.cpp(260,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab 14.vcxproj -> C:\Users\ilsur\Desktop\Чисто лабы САОД\lab 14\Debug\lab 14.exe
