@@ -1,0 +1,4 @@
+﻿  lab 10.cpp
+C:\Users\ilsur\Desktop\Чисто лабы САОД\lab 10\lab 10\lab 10.cpp(115,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ilsur\Desktop\Чисто лабы САОД\lab 10\lab 10\lab 10.cpp(120,11): warning C4101: stack: неиспользованная локальная переменная
+  lab 10.vcxproj -> C:\Users\ilsur\Desktop\Чисто лабы САОД\lab 10\Debug\lab 10.exe
